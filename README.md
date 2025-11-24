@@ -1,4 +1,5 @@
 ## Namaste, I am Arshita Shukla 👋
+![](https://komarev.com/ghpvc/?username=arshitas&color=red)
 
 **Embedded Systems** | **Hardware-Software Co-design** | **Platform Management** | **System on Chip** | **Baremetal Programming** | **Cloud** | **Open-source** | **Gen AI**
 
