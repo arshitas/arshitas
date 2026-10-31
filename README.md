@@ -12,11 +12,7 @@
 - 🛰️ My undergrad thesis focused on application of satellite communication and is also published!([IEEE Xplore link](https://ieeexplore.ieee.org/document/9848361))
 - 🇫🇷 Former Research Intern at Inria, France
 - 🏸 When I’m not debating hardware vs software performance, you’ll find me geeking out over sports (especially badminton)
-
-## GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/arshita-shukla?cardType=octocat&theme=omni&preferLogin=false)](https://git.io/awesome-stats-card)
-![arshitas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arshitas&theme=omni&hide_border=false)
-
+  
 ## Tools I use
 <p float="left">
   <img src="./images/c-original.svg" width="40" height="40" style="border:2px solid black; margin-right:10px;">
